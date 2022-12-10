@@ -1,14 +1,72 @@
+html{
+    background-color: #DDD0C8;
+    padding: 10px;
+}
 
+body {
+    margin: 10px;
+    font-family: 'DM_Sans', Fallback, sans-serif;
+
+}
+
+header {
+    color: #323232;
+    font-weight: lighter;
+}
+
+h1 {
+    color: #323232;
+    font-weight: lighter;
+}
+
+h2 {
+    color: #323232;
+    font-weight: lighter;
+    margin: 50px;
+    line-height: 1.5;
+}
+
+p {
+    margin: 50px;
+    color: #323232;
+    font-weight: lighter;
+}
+
+#resume {
+    margin: 50px;
+}
+
+#link {
+    width: 30px;
+    display: inline-block;
+}
 
 #navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #DDD0C8;
+    border-bottom: 1px solid #323232;
   }
   
-  #navbar a {
+  #nav-right {
     float: right;
     display: block;
-    color: #f2f2f2;
+    color: #323232;
     text-align: center;
     padding: 14px;
   }
+
+  #nav-left {
+    float: left;
+    padding: 14px;
+  }
+
+#gallery1 {
+    float: left;
+    margin: 40px;
+}
+
+#img {
+    height: auto;
+    width: 48%;
+}
+  
