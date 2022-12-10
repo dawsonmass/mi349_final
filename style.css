@@ -36,7 +36,7 @@ p {
     margin: 50px;
 }
 
-#link {
+.link {
     width: 30px;
     display: inline-block;
 }
@@ -47,7 +47,7 @@ p {
     border-bottom: 1px solid #323232;
   }
   
-  #nav-right {
+  .nav-right {
     float: right;
     display: block;
     color: #323232;
@@ -55,7 +55,7 @@ p {
     padding: 14px;
   }
 
-  #nav-left {
+  .nav-left {
     float: left;
     padding: 14px;
   }
@@ -65,7 +65,7 @@ p {
     margin: 40px;
 }
 
-#img {
+.img {
     height: auto;
     width: 48%;
 }
