@@ -5,15 +5,16 @@
 
 
 html{
-    background-color: whitesmoke;
+    background-color: #DDD0C8;
     padding: 10px;
+    margin: 10px;
 }
 
 body {
     margin: 10px;
+    padding: 10 px;
     font-family: 'DM_Sans', Fallback, sans-serif;
     border-top: 10px solid #323232;
-    background-color: #DDD0C8;
 }
 
 header {
@@ -41,6 +42,8 @@ p {
 
 #resume {
     margin: 50px;
+    height: auto;
+    width: 100%;
 }
 
 .link {
