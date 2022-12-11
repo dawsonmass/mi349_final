@@ -49,6 +49,11 @@ p {
     display: inline-block;
 }
 
+.logo {
+    height: auto;
+    width: 50%;
+}
+
 #navbar {
     overflow: hidden;
     background-color: #DDD0C8;
